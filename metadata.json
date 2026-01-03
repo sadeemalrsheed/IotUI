@@ -1,0 +1,5 @@
+{
+  "name": "AgriSmart IoT Dashboard",
+  "description": "A high-end, responsive agriculture IoT dashboard for monitoring soil NPK levels, moisture, temperature, and acidity with real-time visualizations.",
+  "requestFramePermissions": []
+}
